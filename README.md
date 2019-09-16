@@ -240,7 +240,7 @@ Second, FairFuzz uses a novel lightweight mutation technique to increase the pro
 
 ## SAVIOR: Towards Bug-Driven Hybrid Testing(oakland 20)
 
-* [paper](https://github.com/bin2415/fuzzing_paper/tree/master/paper/asiaccs20_SAVIOR.pdf)
+* [paper](https://github.com/bin2415/fuzzing_paper/blob/master/paper/oakland20_SAVIOR.pdf)
 
 # Directed Fuzzing
 
@@ -378,3 +378,7 @@ AFL's coverage measure and stack hashes.
 - Many papers did not carefully consider the impact of seed choices on algorithmic improvements.
 - Papers varied widely on their choice of target programs.
 
+
+# Contributing
+
+Welcome to contribute! Please see instructions [here](./contributing.md).
